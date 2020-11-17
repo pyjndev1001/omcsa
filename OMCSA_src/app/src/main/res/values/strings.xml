@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">OMCSA</string>
+    <string name="minimalist_anatomy_icons"><![CDATA[ONLINE MRI & CT SECTIONAL ANATOMY]]></string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="signup_now">Signup now.</string>
+    <string name="skip_location">Skip Login</string>
+    <string name="okay">OK</string>
+    <string name="username_or_emailaddress">username or email address</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back">back</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="edit_profile"><![CDATA[Edit profile >]]></string>
+    <string name="tip_to_use">Tip to use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="privacy_policy_note">\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"</string>
+    <string name="tip_to_use_note">1)\tRight click and move the mouse can change \tthe contrast and brightness of the image.
+        \n2)\tRight and left click simultaneously and move \tthe mouse can enlarge or minimise the image.
+        \n3)\tAfter the image has been enlarged to where \tsome labels are lying outside the view, left \tclick and move the mouse to move the image \tto show the hidden area.
+        \n4)\tIf internet speed is not fast enough, please use \tthe wheel of the mouse to scroll from the first \timage to the last image. Wait for a short while \tfor all the images to download and once \t\tdownload is complete, viewing of the images \twill be smooth.
+        \n5)\tThe display bar above the image :
+        \n\t“ ↑↓ ” button will flip the image vertically.
+        \n\t“ ⇄ ” button will flip the image horizontally.
+        \n\t“ + “ button will enlarge the image.
+        \n\t“ – “ button will minimise the image.
+        \n\t“ Square ” button : only shows labellings within \tthe square.
+        \n\t“ ◐ “ button will help to change the contrast \tand brightness of the image.
+        \n\t“Display” button : has three modes that \t\tchanges by clicking over the button :
+        \n\t“display” – showing content,
+        \n\t“quiz” – anatomy is hidden and will appear when the pointer is over the “name bar”.
+        \n\t“hidden” – all labellings are hidden.
+        \n\t“ All “ button has three modes that change by clicking over the button :
+        \n\t“all” -- shows all labels
+        \n\t“top” -- shows top third labels
+        \n\t“middle” -- shows mid labels
+        \n\t“bottom” -- shows lower third labels
+        \n\t“ Structures ” button will select the group or groups of anatomy that will be displayed. Some labels are not displayed when images and labellings are first loaded. These hidden anatomies have to be selected in this button to view.
+        \n\t“ English “ button will let you select different languages.
+        \n\t“ Search “ will allow for search of available structure in the set of images.
+        \n\t“ Rainbow ” button : the adjacent anatomies and lines will change into different colours when this button is being selected so that adjacent anatomies are more visible from each other. The original colours will reappear when selecting this button again. Click on OMCSA to return to the home page.
+        \nClick on the browser’s “back” button to return to the previous page.
+        \nClick on the “member’s name” located on top right to enter into member’s account details.</string>
+    <string name="disclaimer_note">\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"</string>
+    <string name="guest_email">Guest Email</string>
+    <string name="copyright">© Copyright 2019 OMCSA\nAll Rights Reserved\n</string>
+    <string name="copyright_">© Copyright 2019 OMCSA. All Rights Reserved</string>
+    <string name="edit_profile_">Edit Profile</string>
+    <string name="order_history">Order History</string>
+    <string name="user_profile">User Profile</string>
+    <string name="username_">Username</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="at_least_one_cap">At least one capital letter</string>
+    <string name="at_least_8_character">At least 8 characters</string>
+    <string name="next">Next</string>
+    <string name="order_list">Order List</string>
+    <string name="home_title"><![CDATA[MRI & CT SECTIONAL ANATOMY]]></string>
+    <string name="home_text"><![CDATA[Online MRI & CT Sectional Anatomy (OMCSA K-anatomy) is probably one of the most user-friendly and convenient online interface for human anatomy atlas. Anatomies like brain, temporal bone/internal auditory meatus, nasopharynx, orbit, paranasal sinuses, cranial nerves, temporomandibular joint, neck, brachial plexus, spine, shoulder, arm, elbow, forearm, wrist, hand, finger, thumb, thorax/lung, coronary arteries, abdomen, pelvis, hip, thigh, knee, leg, ankle, foot, angiogram, etc. are included.]]></string>
+    <string name="home_sub_title">Real-time interface human sectional anatomy</string>
+    <string name="abdomen_pelvis"><![CDATA[Abdomen\n& Pelvis]]></string>
+    <string name="search_for">search for</string>
+    <string name="setting">Setting</string>
+    <string name="transform">Transform</string>
+    <string name="rainbow">Rainbow</string>
+    <string name="view">View</string>
+    <string name="structures">Structures</string>
+    <string name="language">Language</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="select_rainbow">Select Rainbow</string>
+    <string name="select_view">Select View</string>
+    <string name="select_structure">Select Structure</string>
+    <string name="vertebral_artery">Vertebral artery</string>
+    <string name="vertebral_artery_note">Suggest further reading at the following external link/links that are unrelated to OMCSA</string>
+    <string name="wikipedia_link_note">(The inclusion of the above link/links that can be freely obtained on Google search is provided merely as a convenience for reference and does not imply endorsement or association of the website/websites by us and these website/websites are not under the control or responsibility of OMCSA. Members and visitors are suggested to seek further references through the internet, journals and books.)</string>
+    <string name="login_to_view_anotomy">Please login to view anatomy</string>
+    <string name="press_back_once_more_to_exit">Press Back once more to exit app.</string>
+    <string name="close">Close</string>
+    <string name="renew">Renew</string>
+    <string name="tips_for_app"><![CDATA[1.\tUse two fingers to change the size of the images. \n\n2.\tUse one finger to scroll through the images when the images are at their original size.  Images can also be scrolled through using the image bar at the bottom of the image.  Use < or > to change image one by one. \n\n3.\tUse one finger to move the image when it has been enlarged. \n\n4.\tWhen the anatomy name is too long, it will only be shown partially and touching on this name will give the full name with or without suggested links. \n\n5.\tSome anatomical structures are not shown immediately and are only shown by tiny dots.  Touch the dot will review the name of the anatomy. \n\n6.\tType the requested name on the search and find the one that is required on the suggested list. \n\n7.\t‘<’ on the top left hand corner will lead to the previous page. \n\n8.\t‘Three short bars’ on the top left hand corner will lead to user’s information. \n\n9.\tStructures can be selected using the ‘All Structure’. \n\n10.\tMore functions like quiz, select language, transform images etc. are available under the setting symbol in the left lower corner.]]></string>
+    <string name="select_language">Select Language</string>
+    <array name="on_off">
+        <item>On</item>
+        <item>Off</item>
+    </array>
+    <array name="lang_text">
+        <item>English</item>
+        <item>Français</item>
+        <item>Japanese</item>
+        <item>Chinese(Simplified Chinese)</item>
+        <item>Chinese(Traditional Chinese)</item>
+        <item>Español</item>
+        <item>Português</item>
+    </array>
+    <array name="lang_key">
+        <item>english</item>
+        <item>Français</item>
+        <item>JAPANESE</item>
+        <item>Chinese_sc</item>
+        <item>Chinese_tc</item>
+        <item>Español</item>
+        <item>Português</item>
+    </array>
+</resources>

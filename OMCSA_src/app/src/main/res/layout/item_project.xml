@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/layoutProject"
+    android:layout_width="match_parent"
+    android:background="@drawable/border_shadow_2"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:id="@+id/layoutItem"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_margin="10dp"
+            android:id="@+id/imgProject"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_gravity="right"
+                android:layout_width="wrap_content"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentRight="true">
+                <TextView
+                    android:id="@+id/txtImageCount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border_round_light_grey"
+                    android:text="428 Images"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/deep_grey"/>
+                <TextView
+                    android:id="@+id/txtMember"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Free"
+                    android:textColor="@color/green"/>
+            </LinearLayout>
+            <TextView
+                android:gravity="right"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="right"
+                android:textStyle="bold"
+                android:layout_marginRight="10dp"
+                android:id="@+id/txtProjectName"
+                android:textColor="@color/deep_grey"
+                android:textSize="18sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Head"
+                android:layout_alignParentRight="true"
+                android:layout_alignBottom="@+id/imgProject"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/txtInvisible"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:textColor="@color/deep_grey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text=""/>
+</RelativeLayout>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="on_color">#d8d8d8</color>
+    <color name="off_color">#fbfbfb</color>
+    <color name="border_color">#b2b2b2</color>
+    <color name="grey">#808080</color>
+    <color name="green">#3eb064</color>
+    <color name="red">#b03200</color>
+    <color name="deep_grey">#505050</color>
+    <color name="transparent">#00000000</color>
+    <color name="pink">#e61174</color>
+
+    <!--
+    Legend Color Values
+    -->
+    <color name="legend_white">#FFFFFF</color>
+    <color name="legend_red">#FF0000</color>
+    <color name="legend_chart_reuse">#80FF00</color>
+    <color name="legend_aqua">#00FFFF</color>
+    <color name="legend_gold">#FFD700</color>
+    <color name="legend_gray">#808080</color>
+    <color name="legend_magenta">#FF00FF</color>
+    <color name="legend_orange">#FF7F00</color>
+    <color name="legend_dark_orange">#FF8C00</color>
+    <color name="legend_loyal_blue">#4169E1</color>
+    <color name="legend_lawn_green">#7CFC00</color>
+    <color name="legend_yellow_green">#9ACD32</color>
+    <color name="legend_plum">#DC9FDC</color>
+    <color name="legend_tan">#D2B48C</color>
+    <color name="legend_peach">#FFDAB9</color>
+    <color name="legend_corn_flower_blue">#6495ED</color>
+    <color name="legend_green">#008000</color>
+    <color name="legend_yellow">#FFFF00</color>
+    <color name="legend_standy_brown">#F4A460</color>
+
+    <color name="other_legend_white">#50FFFFFF</color>
+    <color name="other_legend_red">#50FF0000</color>
+    <color name="other_legend_chart_reuse">#5080FF00</color>
+    <color name="other_legend_aqua">#5000FFFF</color>
+    <color name="other_legend_gold">#50FFD700</color>
+    <color name="other_legend_gray">#50808080</color>
+    <color name="other_legend_magenta">#50FF00FF</color>
+    <color name="other_legend_orange">#50FF7F00</color>
+    <color name="other_legend_dark_orange">#50FF8C00</color>
+    <color name="other_legend_loyal_blue">#504169E1</color>
+    <color name="other_legend_lawn_green">#507CFC00</color>
+    <color name="other_legend_yellow_green">#509ACD32</color>
+    <color name="other_legend_plum">#50DC9FDC</color>
+    <color name="other_legend_tan">#50D2B48C</color>
+    <color name="other_legend_peach">#50FFDAB9</color>
+    <color name="other_legend_corn_flower_blue">#506495ED</color>
+    <color name="other_legend_green">#50008000</color>
+    <color name="other_legend_yellow">#50FFFF00</color>
+    <color name="other_legend_standy_brown">#50F4A460</color>
+
+    <color name="legend_fill_white">#80FFFFFF</color>
+    <color name="legend_fill_red">#80FF0000</color>
+    <color name="legend_fill_chart_reuse">#8080FF00</color>
+    <color name="legend_fill_aqua">#8000FFFF</color>
+    <color name="legend_fill_gold">#80FFD700</color>
+    <color name="legend_fill_gray">#80808080</color>
+    <color name="legend_fill_magenta">#80FF00FF</color>
+    <color name="legend_fill_orange">#80FF7F00</color>
+    <color name="legend_fill_dark_orange">#80FF8C00</color>
+    <color name="legend_fill_loyal_blue">#80002366</color>
+    <color name="legend_fill_lawn_green">#807CFC00</color>
+    <color name="legend_fill_yellow_green">#809ACD32</color>
+    <color name="legend_fill_plum">#80DC9FDC</color>
+    <color name="legend_fill_tan">#80D2B48C</color>
+    <color name="legend_fill_peach">#80FFDAB9</color>
+    <color name="legend_fill_corn_flower_blue">#806495ED</color>
+    <color name="legend_fill_green">#80008000</color>
+    <color name="legend_fill_yellow">#80FFFF00</color>
+    <color name="legend_fill_standy_brown">#80F4A460</color>
+
+    <color name="rainbow_1">#ffffff</color>
+    <color name="rainbow_2">#ffdab9</color>
+    <color name="rainbow_3">#ff00ff</color>
+    <color name="rainbow_4">#ff0000</color>
+    <color name="rainbow_5">#00ffff</color>
+    <color name="rainbow_6">#c3a782</color>
+    <color name="rainbow_7">#7cfc00</color>
+    <color name="rainbow_8">#cd94cd</color>
+    <color name="rainbow_9">#6495ed</color>
+    <color name="rainbow_10">#f2f200</color>
+    <color name="rainbow_11">#9acd32</color>
+
+
+    <color name="other_rainbow_1">#50ffffff</color>
+    <color name="other_rainbow_2">#50ffdab9</color>
+    <color name="other_rainbow_3">#50ff00ff</color>
+    <color name="other_rainbow_4">#50ff0000</color>
+    <color name="other_rainbow_5">#5000ffff</color>
+    <color name="other_rainbow_6">#50c3a782</color>
+    <color name="other_rainbow_7">#507cfc00</color>
+    <color name="other_rainbow_8">#50cd94cd</color>
+    <color name="other_rainbow_9">#506495ed</color>
+    <color name="other_rainbow_10">#50f2f200</color>
+    <color name="other_rainbow_11">#509acd32</color>
+
+
+    <color name="fill_rainbow_1">#80ffffff</color>
+    <color name="fill_rainbow_2">#80ffdab9</color>
+    <color name="fill_rainbow_3">#80ff00ff</color>
+    <color name="fill_rainbow_4">#80ff0000</color>
+    <color name="fill_rainbow_5">#8000ffff</color>
+    <color name="fill_rainbow_6">#80c3a782</color>
+    <color name="fill_rainbow_7">#807cfc00</color>
+    <color name="fill_rainbow_8">#80cd94cd</color>
+    <color name="fill_rainbow_9">#806495ed</color>
+    <color name="fill_rainbow_10">#80f2f200</color>
+    <color name="fill_rainbow_11">#809acd32</color>
+
+</resources>
